@@ -2,10 +2,6 @@
 
 
 
-\# Collaborative Project
-
-
-
 | CODIGO | APELLIDO | NOMBRE |
 
 |--------|----------|--------|
